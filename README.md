@@ -23,7 +23,7 @@ go install github.com/apache/beam/sdks/v2/go/examples/wordcount
 
 **7.** Run the wordcount:
 ```
-    go run wordcount.go --input <input file> --output <output file>
+go run wordcount.go --input <input file> --output <output file>
 ```
     
 **8.** Incase of any errors, run this command and rerun Step 7:
